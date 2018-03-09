@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi Humans
+
+superpower here,I like software programing.
+i like being happy and also making others happy.
